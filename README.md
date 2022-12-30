@@ -15,7 +15,7 @@ To that end, I base my analysis on three specific questions:
 
 
 
-You can find the blog post related to these observations [here](https://medium.com/@shamziel/coders-in-the-wild-4a6da8d08e5e).
+You can find the blog post related to these observations [here](https://medium.com/@wasayf88/data-analysis-of-stack-overflow-developer-survey-2019-ab56f8d2274f).
 
 ## Requirements
 
