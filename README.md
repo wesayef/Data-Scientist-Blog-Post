@@ -25,8 +25,6 @@ The CSV table used in this project may be downloaded [here](https://insights.sta
 
 The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis.ipynb. This is carried out according to the CRISP-DM process and the data science process - gather, assess, clean, analyze, model, and visualize. Markdown cells and comments are used to clarify all the steps and answer the questions I pose to the dataset. The remaining files in this repository are:
 
-* org-size-and-developer-satisfaction.png - Image of a clustered bar chart depicting the relationship between company size and survey respondent satisfaction
-
 
 ## Libraries & Technologies Used
 
